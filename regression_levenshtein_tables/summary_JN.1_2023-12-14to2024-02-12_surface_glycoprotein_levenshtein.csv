@@ -1,0 +1,5 @@
+Parent Lineage,Child Lineage,Levenshtein Distance,Fitness Difference
+JN.1,JN.1.2,1,-0.06022508
+JN.1,JN.1.4,2,0.014612205
+JN.1,JN.1.7,2,0.15915501
+JN.1,JN.1.9,1,-0.019740008

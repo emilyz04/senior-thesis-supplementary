@@ -1,0 +1,5 @@
+Parent Lineage,Child Lineage,Levenshtein Distance,Fitness Difference
+EG.5.1,EG.5.1.16,1,0.019339103
+EG.5.1,EG.5.1.3,2,0.02725179
+EG.5.1,EG.5.1.4,1,0.055602886
+EG.5.1,EG.5.1.6,1,0.07739014

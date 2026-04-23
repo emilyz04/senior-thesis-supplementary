@@ -1,0 +1,6 @@
+Parent Lineage,Child Lineage,Levenshtein Distance,Fitness Difference
+BQ.1.1,BQ.1.1.32,2,0.09108529
+BQ.1.1,BQ.1.1.41,1,0.018850466
+BQ.1.1,BQ.1.1.5,1,-0.026146356
+BQ.1.1,BQ.1.1.69,2,0.019454272
+BQ.1.1,BQ.1.1.7,1,-0.07693525

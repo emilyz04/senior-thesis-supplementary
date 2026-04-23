@@ -1,0 +1,5 @@
+Parent Lineage,Child Lineage,Levenshtein Distance,Fitness Difference
+XBB.1.16,XBB.1.16.1,2,-0.027927037
+XBB.1.16,XBB.1.16.6,3,0.11164526
+XBB.1.16,XBB.1.16.11,2,0.1272601
+XBB.1.16,XBB.1.16.15,3,0.12708806

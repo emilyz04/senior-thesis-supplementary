@@ -1,0 +1,5 @@
+Parent Lineage,Child Lineage,Levenshtein Distance,Fitness Difference
+BA.4,BA.4.1,4,0.013409192
+BA.4,BA.4.2,3,0.014816718
+BA.4,BA.4.4,2,-0.028670244
+BA.4,BA.4.6,3,0.15109387
